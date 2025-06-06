@@ -1,0 +1,5 @@
+legram-bot/
+├── index.js               # Bot 主程序
+├── package.json           # 项目的配置文件，包含依赖
+├── .env.example           # 环境变量模板
+├── .gitignore             # 忽略的文件或文件夹
